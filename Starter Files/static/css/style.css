@@ -2,7 +2,40 @@ body {
     background: #e7eaf6; 
   }
   
-.box {
-    height: 20cm;
-    color: ;
-}
+  .navbar-light {
+    margin: 0px;
+    /* border: 0px; */
+    padding: 0px;
+    background-color: #00aaa0;
+  }
+
+  .box {
+    /* relative positioning */
+    position: relative;
+    height: 700px;
+    top: 40px;
+    background: #ffffff; ;
+    border: 2px solid whitesmoke;
+  }
+  
+  .box-1 {
+    width: 800px;
+    left: 150px;
+  }
+  
+  .box-2 {
+    width: 600px;
+    left: 100px;
+  }
+
+  h1 {
+    color: #00aaa0; 
+    margin-top: 5%;
+    margin-left: 2%;
+  }
+  
+  h2 {
+    color: #00aaa0; 
+    margin-top: 5%;
+    margin-left: 2%;
+  }

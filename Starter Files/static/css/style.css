@@ -39,3 +39,40 @@ body {
     margin-top: 5%;
     margin-left: 2%;
   }
+
+  .img1 {
+    float: left; 
+    padding: auto;
+    width: 300px;
+    height: 300px;
+  }
+
+  .img2 {
+    float: left; 
+    padding: auto;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .img3 {
+    position: relative;
+    top: -600px;
+    float: right; 
+    padding: auto;
+    width: 300px;
+    height: 300px;
+  }
+
+  .img4 {
+    position: relative;
+    top: -600px;
+    float: right; 
+    padding: auto;
+    width: 300px;
+    height: 300px;
+  }
+  p {
+    position: relative;
+    font-size: 1.5rem;
+  }
+  

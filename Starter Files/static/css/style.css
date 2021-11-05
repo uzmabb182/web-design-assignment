@@ -44,32 +44,32 @@ body {
     float: left; 
     padding: auto;
     width: 300px;
-    height: 300px;
+    height: 250px;
   }
 
   .img2 {
     float: left; 
     padding: auto;
     width: 300px;
-    height: 300px;
+    height: 250px;
   }
   
   .img3 {
     position: relative;
-    top: -600px;
+    top: -500px;
     float: right; 
     padding: auto;
     width: 300px;
-    height: 300px;
+    height: 250px;
   }
 
   .img4 {
     position: relative;
-    top: -600px;
+    top: -500px;
     float: right; 
     padding: auto;
     width: 300px;
-    height: 300px;
+    height: 250px;
   }
   p {
     position: relative;

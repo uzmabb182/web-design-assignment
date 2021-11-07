@@ -87,3 +87,8 @@ body {
     font-size: larger;
     color: #00aaa0;
   }
+
+  table {
+    width:100% !important;
+    height:100% !important; 
+  }

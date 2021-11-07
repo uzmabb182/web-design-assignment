@@ -76,6 +76,11 @@ body {
     height:100% !important; 
   }
 
+  .temp-img {
+    width:100% !important;
+    height:100% !important; 
+  }
+
   figcaption {
     text-align: center;
     font-weight: bolder;

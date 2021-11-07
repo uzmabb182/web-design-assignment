@@ -39,6 +39,10 @@ body {
   }
 
   p {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
   
+  .comp-img {
+    width:100% !important;
+    height:100% !important; 
+  }

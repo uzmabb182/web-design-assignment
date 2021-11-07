@@ -4,75 +4,41 @@ body {
   
   .navbar-light {
     margin: 0px;
-    /* border: 0px; */
+    border: 0px; 
     padding: 0px;
     background-color: #00aaa0;
   }
 
+  .navbar-brand {
+    font-weight:bold;
+    font-size: 30px;
+    color: white;
+  }
+  .container {
+    margin: 100px;
+  }
+
   .box {
-    /* relative positioning */
-    position: relative;
-    height: 700px;
-    top: 40px;
+    float: auto;
     background: #ffffff; ;
     border: 2px solid whitesmoke;
   }
-  
-  .box-1 {
-    width: 800px;
-    left: 150px;
-  }
-  
-  .box-2 {
-    width: 600px;
-    left: 100px;
-  }
+
 
   h1 {
     color: #00aaa0; 
-    margin-top: 5%;
-    margin-left: 2%;
-  }
-  
-  h2 {
-    color: #00aaa0; 
-    margin-top: 5%;
+    margin-top: 3%;
     margin-left: 2%;
   }
 
-  .img1 {
+  .img {
     float: left; 
     padding: auto;
-    width: 300px;
-    height: 250px;
+    width: 206px;
+    height: 205px;
   }
 
-  .img2 {
-    float: left; 
-    padding: auto;
-    width: 300px;
-    height: 250px;
-  }
-  
-  .img3 {
-    position: relative;
-    top: -500px;
-    float: right; 
-    padding: auto;
-    width: 300px;
-    height: 250px;
-  }
-
-  .img4 {
-    position: relative;
-    top: -500px;
-    float: right; 
-    padding: auto;
-    width: 300px;
-    height: 250px;
-  }
   p {
-    position: relative;
     font-size: 1.5rem;
   }
   
